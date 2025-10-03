@@ -1,7 +1,10 @@
 # Vectura One
 
 ## 🌐 Project Overview
-Vectura One is a strategic concept brand focusing on innovative solutions through minimal, powerful design.
+Vectura One is a strategic concept (sorta kinda) brand focusing on innovative solutions through minimal, powerful design.
+
+## ⚠️ Warnings ⚠️
+Please do not use any form of contact listed on the website. These contact methods will remain closed until the domain is in motion
 
 ## 🎯 Core Values
 - **Direction**: Purposeful, strategic approach
