@@ -8,12 +8,6 @@ Vectura One is a strategic concept brand focusing on innovative solutions throug
 - **Simplicity**: Distilling complexity
 - **Power**: Maximum impact through precision
 
-## 🛠 Technical Stack
-- Frontend: HTML5, CSS3
-- Design: Responsive, Dark Mode
-- Hosting: TBD
-- Domain: vectura.one
-
 ## 🚀 Development Environment
 ### Prerequisites
 - Modern web browser
