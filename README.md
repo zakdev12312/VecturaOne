@@ -1,6 +1,7 @@
 # Vectura One
+
 ## ⚠️ Warnings ⚠️
-Please do not use any form of contact listed on the website. These contact methods will remain closed until the domain is in motion.
+Please do not use any form of contact listed on the website. These contact methods will remain closed until the domain is in full focus.
 
 ## 🌐 Project Overview
 Vectura One is a strategic concept (sorta kinda) brand focusing on innovative solutions through minimal, powerful design.
