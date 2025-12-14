@@ -17,8 +17,8 @@ Vectura One is a strategic concept (sorta kinda) brand focusing on innovative so
 `0.1.0` - Initial Concept Stage
 
 ## 🎯 Core Values
-- **Precision**: Exellence in execution
+- **Precision**: Providing *you* with the clarity to shape your vision
 - **Empowerment**: Giving *you* the power you need
-- **Capability**: Maximum ease of use
+- **Continuity**: Securing *you* in the flow of progress
 
-## Precision • Empowerment • Capability
+## Design • Empowerment • Continuity
